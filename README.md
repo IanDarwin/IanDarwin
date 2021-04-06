@@ -6,15 +6,15 @@
 
 #### You can find me on:
 [Linkedin](https://www.linkedin.com/in/IanDarwin) - 
-[Stackoverflow](https://stackoverflow.com/users/13542935/IanDarwin) - 
-[Medium](https://IanDarwin.medium.com) - 
-[Instagram](https://instagram.com/IanDarwin) - 
+[Stackoverflow](https://stackoverflow.com/users/176859/idarwin) - 
+[Reviews on Medium](https://medium.com/i-tried-that) - 
+[Instagram](https://instagram.com/IanDarwinPhoto) - 
 [Twitter](https://twitter.com/Ian_Darwin)
 
 <br>
-<!-- If you forked this repo, Change the username as yours -->
+<!-- If you forked this repo, Change the username to match yours -->
 <a href="https://github.com/IanDarwin/IanDarwin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IanDarwin&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="gurusabarish" />    
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IanDarwin&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Boring Statistics" />    
 </a>
 <br>
 </div>
