@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi there, I am Ian Darwin 👋
+## Hi there, I am Ian Darwin
 
 ![](https://komarev.com/ghpvc/?username=IanDarwin)
 
