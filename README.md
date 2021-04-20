@@ -15,7 +15,7 @@
 <br>
 <!-- If you forked this repo, Change the username to match yours -->
 <a href="https://github.com/IanDarwin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IanDarwin&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Boring Statistics" />    
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IanDarwin&show_icons=true&include_all_commits=true&count_private=true&custom_title=My+Gihub+Stats&theme=radical" alt="Boring Statistics" />    
 </a>
 <br>
 </div>
