@@ -1,16 +1,17 @@
 <div align="center">
 
-## Welcome to Ian Darwin's little corner of the gitiverse.
+## Welcome to Ian Darwin's little corner of the gitterverse.
 
 ![](https://komarev.com/ghpvc/?username=IanDarwin)
 
 #### You can find me on:
 [Home Page](https://darwinsys.com/) - 
+[Twitter](https://twitter.com/Ian_Darwin) -
+[Oracle Java Magazine](https://blogs.oracle.com/authors/ian-darwin) -
+[Reviews on Medium](https://medium.com/i-tried-that) - 
 [Linkedin](https://www.linkedin.com/in/IanDarwin) - 
 [Stackoverflow](https://stackoverflow.com/users/176859/idarwin) - 
-[Reviews on Medium](https://medium.com/i-tried-that) - 
-[Instagram](https://instagram.com/IanDarwinPhoto) - 
-[Twitter](https://twitter.com/Ian_Darwin)
+[Instagram](https://instagram.com/IanDarwinPhoto)
 
 <br>
 <!-- If you forked this repo, Change the username to match yours -->
