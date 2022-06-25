@@ -8,7 +8,7 @@
 [Home Page](https://darwinsys.com/) - 
 [Twitter](https://twitter.com/Ian_Darwin) -
 [Oracle Java Magazine](https://blogs.oracle.com/authors/ian-darwin) -
-[Reviews on Medium](https://medium.com/i-tried-that) - 
+[Reviews on Medium](https://medium.com/i-tried-that) -  
 [Linkedin](https://www.linkedin.com/in/IanDarwin) - 
 [Stackoverflow](https://stackoverflow.com/users/176859/idarwin) - 
 [Instagram](https://instagram.com/IanDarwinPhoto)
