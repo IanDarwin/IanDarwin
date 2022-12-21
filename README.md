@@ -11,7 +11,8 @@
 [Reviews on Medium](https://medium.com/i-tried-that) -  
 [Linkedin](https://www.linkedin.com/in/IanDarwin) - 
 [Stackoverflow](https://stackoverflow.com/users/176859/idarwin) - 
-[Instagram](https://instagram.com/IanDarwinPhoto)
+[Instagram](https://instagram.com/IanDarwinPhoto) -
+<div><a rel="me" href="https://litmind.club/@idarwin">Mastodon</a></div>
 
 <br>
 <!-- If you forked this repo, Change the username to match yours -->
