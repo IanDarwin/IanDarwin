@@ -13,6 +13,8 @@
 [Stackoverflow](https://stackoverflow.com/users/176859/idarwin) - 
 [Instagram](https://instagram.com/IanDarwinPhoto) -
 <div><a rel="me" href="https://fosstodon.org/@IanDarwin">Mastodon</a></div>
+Find me on:
+<a href='https://blogs.oracle.com/authors/ian-darwin'>Oracle Java Magazine</a>
 
 <br>
 <!-- If you forked this repo, Change the username to match yours -->
