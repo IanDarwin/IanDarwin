@@ -8,12 +8,13 @@
 [Home Page](https://darwinsys.com/) - 
 [Twitter](https://twitter.com/Ian_Darwin) -
 [Oracle Java Magazine](https://blogs.oracle.com/authors/ian-darwin) -
-[Reviews on Medium](https://medium.com/i-tried-that) -  
+[Tech Reviews: Medium](https://medium.com/i-tried-that) -  
 [Linkedin](https://www.linkedin.com/in/IanDarwin) - 
 [Stackoverflow](https://stackoverflow.com/users/176859/idarwin) - 
 [Instagram](https://instagram.com/IanDarwinPhoto) -
-<a href='https://blogs.oracle.com/authors/ian-darwin'>Oracle Java Magazine</a>
-<div><a rel="me" href="https://fosstodon.org/@IanDarwin">Mastodon</a></div>
+[Oracle Java Magazine](https://blogs.oracle.com/authors/ian-darwin) -
+[YouTube](https://www.youtube.com/in/IanDarwin) - 
+[Mastodon](https://fosstodon.org/@IanDarwin)
 
 <br>
 <!-- If you forked this repo, Change the username to match yours -->
