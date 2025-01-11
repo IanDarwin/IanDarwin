@@ -12,7 +12,6 @@
 [Linkedin](https://www.linkedin.com/in/IanDarwin) - 
 [Stackoverflow](https://stackoverflow.com/users/176859/idarwin) - 
 [Instagram](https://instagram.com/IanDarwinPhoto) -
-[Oracle Java Magazine](https://blogs.oracle.com/authors/ian-darwin) -
 [YouTube](https://www.youtube.com/in/IanDarwin) - 
 [Mastodon](https://fosstodon.org/@IanDarwin)
 
